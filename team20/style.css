@@ -3,7 +3,7 @@
    background-color: #b9f4fa; 
    border-style: solid;
    border-width: 5px;
-   border-color: #F4B1FD;
+   border-color: #f6aeff;
    font-family: 'Quicksand', sans-serif
    
 ;
@@ -12,7 +12,7 @@
    background-color: #f6aeff; 
    border-style: solid;
    border-width: 5px;
-   border-color: #b9f4fa
+   border-color: #b9f4fa;
 
    f0a8ff
 ;
@@ -38,7 +38,7 @@
 ;
 }
 h1 {
-color:rgb(73, 29, 77)
+   color:rgb(73, 29, 77)
 }
 h4 {
    color:rgb(59, 0, 59)
@@ -54,19 +54,50 @@ h4 {
     text-decoration: none; 
 }
 #navbar2 {
-    text-decoration: none; 
+    text-decoration: none:
+}
+#navbar3 {
+   text-align: center;
 }
 
 p { 
-   font-size: 20px;
+   font-size: 25px;
    font-family: 'quicksand', sans-serif;
+   text-align: center;
 }
+
 h4 {
    font-family: 'Open Sans Condensed', sans-serif;
 }
 h1 {
    font-family: 'Quicksand', sans-serif
 }
-html {
-   background-color:#f9e6ff
+
+#navbar3{
+   background-color: #f6aeff; 
+   border-style: solid;
+   border-width: 5px;
+   border-color: #b9f4fa
+
+   f0a8ff
+;
+}
+#navbar3 li{
+   
+   font-family: 'Zilla Slab', serif;;
+   font-size: 24px;
+   text-decoration: none;
+   display: inline-block;
+   padding-right: 50px;
+   padding-left: 50px
+;
+}
+h1{
+   text-align: center;
+}
+h4{
+   text-align: center;
+}
+#Avatars li{
+   align-items: center;
 }
