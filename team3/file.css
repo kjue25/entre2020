@@ -68,8 +68,9 @@ h6 {
 
 
 img {
-    border-style: double;
+    
     padding: 5px;
+    
 }
 
 a:hover {
@@ -100,3 +101,4 @@ padding: 30;
     Border-color:black;
     padding:1px;
 }
+

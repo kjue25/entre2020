@@ -24,7 +24,7 @@
 
 }
 #navbar a:link {
-    color: black;
+    color: slategray;
     text-decoration: none;
 }
 #navbar a:visited {
@@ -62,9 +62,8 @@ h2 {
    margin-left: 100px;
    margin-right: 100px;
    text-align: center;
-   
-    
 }
+
 p {
     font-family: 'ABeeZee';
     text-align: center;
@@ -78,11 +77,11 @@ h4 {
 
 #stuff img:hover { 
     width: 389; 
-    height:520;
+    height: 520;
 }
 
 img { 
-    border-radius: 40px; 
+    border-radius: 40px;
     padding-bottom: 20px;
     border-style: solid;
     border-color: pink;
@@ -91,4 +90,8 @@ img {
 iframe.CostOfGoods { 
     height: 500px;
     width: 750px;
+}
+
+#cogs {
+    text-align: center;
 }

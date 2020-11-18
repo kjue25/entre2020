@@ -1,5 +1,36 @@
-body{ background-color:#6cb4e4 }
-H2{color:navy}
-paragh{color: navy} 
-H2{font-family: caveat;}
-Paragh{font-family: satisfy;}
+/* font-family: 'Satisfy', cursive;  Copy and paste this to use the font satisfy */
+body{ 
+    background-color:rgb(229, 250, 250);
+}
+H2{
+    color:navy;
+}
+p{
+    color: navy;
+   
+}
+#nav{
+    background-color: rgb(243, 242, 242);
+    border-style:outset;
+    border-color: rgb(243, 243, 243);
+    color: black;
+    text-align: center;
+}
+#nav ul{
+    font-family: cursive;
+}
+#nav li{
+    display: inline-block;
+    font-size: 30px;
+    padding-left: 100;
+    padding-right: 100;
+  
+}
+#nav a{
+    color: black;
+    
+}
+#nav #Title{
+    font-size: 100;
+}
+
