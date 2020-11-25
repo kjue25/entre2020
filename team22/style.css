@@ -1,1 +1,48 @@
 /* schuyler created this file */
+
+#navbar {
+    background-color: #f5ab7a;
+    text-align: right;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgba(240, 132, 70, 0.897);
+    font-family: 'Fredericka the Great';
+    
+    }
+    
+    #navbar a {
+        text-decoration: none;
+    }
+
+    #navbar {
+        font-size: 30px;
+    }
+    
+#navbar li {
+    display: inline-block;
+    padding: 10px;
+}
+
+a:hover {
+    color: #cf8b64;
+}
+
+a {
+    color: rgb(177, 73, 26);
+}
+
+h1 {
+    font-family: cursive;
+}
+#navbar a {
+   
+    padding-left: 100px;
+    padding-right: 300px;
+}
+body {
+    background-color: #f0ecdd;
+
+}
+body {
+    font-family: font-family: 'Josefin Sans', sans-serif;
+}

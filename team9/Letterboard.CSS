@@ -8,22 +8,16 @@ EMMA KACHER IS MY NAME PLAYING MINCRAFT IS MY GAME */
 #navbar {
     background-color: #c2755b;
     font-size: medium;
+    text-align: center;
     }
     
     #navbar li {
         font-family: 'Amiko', sans-serif;    
     text-decoration: none;
+    display: inline-block;
+    padding-right: 40px;
     }
 
-    #emma {
-        font-family: 'Amiko', sans-serif;
-        padding-left: 100px;
-    }
-    #avni {
-        font-family: 'Amiko', sans-serif;
-        text-align: center;
-
-    }
 
 h2 {
     font-family: 'Amiko', sans-serif;
@@ -49,15 +43,20 @@ h2 {
         color: white;
     }
 
-
+tr {
+    font-family: 'Amiko', sans-serif;
+    font-size: 20px;
+}
         
     p {
         font-family: 'Amiko', sans-serif;
         text-align: center;
-
+      
+       
     }
+
     h4 {
-        text-align: left;
+        text-align: center;
         font-family: 'Amiko', sans-serif;
     }
 
@@ -66,6 +65,16 @@ h2 {
 
     #intro {
         font-family: 'Amiko', sans-serif; 
+        padding-left: 100px;
+        padding-right: 100px;
+        text-align: center;
     }
 
     
+    iframe {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border: 5px double  #c2755b;
+      }

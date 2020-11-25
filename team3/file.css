@@ -2,7 +2,7 @@
 /* Alexa created this file on 0ct 27 2020 */
 /* Claudia edited COGS styling */
 #navbar {
-    background-color:#81b5c7;
+    background-color: none;
     border: none;
     
 }
@@ -20,39 +20,42 @@ body {
     text-align: center
     
 }
-h3{
-    color: #3f4647
+h3 {
+    color: black;
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif;
+    
 }
 h1 {
     color: #3f4647 ;
     font-size: 50px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h2 {
     color: #3f4647;
     font-size: 30px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h4 {
     color: #47443f;
-    font-size: 15px;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    font-family: 'Quicksand', sans-serif;
 }
  
 
 p {
     /* Search "hex color picker" in Google to pick a color by hex value */
     color: white;
-    font-size: 17px;
+    font-size: 14px;
     padding-left: 50px;
     padding-right: 50px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 body {
-    background-color: #81b5c2;
-    font-family: 'Montserrat', sans-serif;
+    background-color:    #5a8746;
+    font-family: 'Quicksand', sans-serif;
     text-align: center;
 }
 
@@ -63,7 +66,7 @@ h6 {
     border-style: solid;
     padding-left: 10px;
     padding-right: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 
@@ -101,4 +104,6 @@ padding: 30;
     Border-color:black;
     padding:1px;
 }
+
+
 

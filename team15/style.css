@@ -2,12 +2,10 @@
 /* Ava added the navbar code on November 6th,2020 */
 /* Ava added some design details on November 11th, 2020 */
 h1 {
-    color: #abcef7;
+    color: #9cd2ff;
 }
 #navbar {
-    background-color: #c6f7d4;
-    border-style: dotted;
-    border-width: 2px;
+    background-color: #fed4ff;
 }
 #navbar li {
     display: inline-block;
@@ -19,9 +17,6 @@ h1 {
     font-family: lora;
 }
 body {
-    background-color: #c6f7d4;
-}
-body {
     text-align: center;
 }
 h1 {
@@ -30,7 +25,7 @@ h1 {
     border-color: #facae1;
 }
 h1:hover {
-    color: #cab1fa;
+    color: #c587ff;
     text-align: center;
 }
 #navbar :hover {
@@ -38,9 +33,8 @@ h1:hover {
     text-align: center;
 }
 a:link {
-    text-decoration: underline;
     color: #ff91ce;
 }
-h1 {
-    text-decoration: underline overline wavy #c7faff;
+h2 {
+    text-decoration: underline #c7faff;
 }

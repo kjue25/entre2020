@@ -21,6 +21,10 @@ h1 {
     border-color: #9e9fe6;
     border-width: 10px;
 }
+h2 {
+    font-family: 'Courier New';
+   
+}
 
 p { 
     font-family: 'Courier New';

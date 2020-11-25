@@ -14,9 +14,40 @@
 }
 
 Body {
-    background-color: #ede3fc;
+    background-color: white;
+    text-align: center;
+    font-family: 'Comfortaa';
 }
 
 #COG {
     list-style-type: none;
+}
+
+#Logo {
+    margin: 30px;
+    border: 5px ridge #34ebc9;
+    border-radius: 20%;
+}
+
+#Logo:hover {
+    width: 350px;
+    height: 350px;
+}
+
+#Josie {
+    text-align: left;
+    border: 5px solid greenyellow;
+    margin: 10px;
+    border-radius: 30%;
+    width: 200px;
+    height: 360px;
+}
+
+#Hannah {
+    text-align: right;
+    border: 5px solid greenyellow;
+    margin: 10px;
+    border-radius: 30%;
+    width: 200px;
+    height: 360px;
 }

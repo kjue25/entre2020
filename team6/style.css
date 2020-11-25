@@ -62,8 +62,9 @@ h2 {
    margin-left: 100px;
    margin-right: 100px;
    text-align: center;
+   
+    
 }
-
 p {
     font-family: 'ABeeZee';
     text-align: center;
@@ -76,13 +77,12 @@ h4 {
 }
 
 #stuff img:hover { 
-    width: 389; 
-    height: 520;
+    min-width: 389; 
+    min-height:520;
+    transition-timing-function: ease;
 }
-
 img { 
-    border-radius: 40px;
-    padding-bottom: 20px;
+    border-radius: 40px; 
     border-style: solid;
     border-color: pink;
 }
@@ -93,5 +93,9 @@ iframe.CostOfGoods {
 }
 
 #cogs {
+    text-align: center;
+}
+
+#Bitmojis {
     text-align: center;
 }

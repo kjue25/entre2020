@@ -4,17 +4,52 @@ h1 {
     background-color:purple;
     color:pink;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 a:link{
     text-decoration:  underline plum;
-    font: 400px;
-    
 }
-#navbar li{
+#navbar1 li{
     display: inline-block;
 }
-#navbar{
+#navbar1{
     background-color: lightpink;
     border-style: solid;
     border-width: 2px;
+}
+#navbar2 li{
+    display: inline-block;
+}
+#navbar2{
+    background-color: lightpink;
+    border-style: solid;
+    border-width: 2px;
+}
+html{
+    background-color:#fcedf5;
+}
+p{
+    border-style: dotted;
+    border-width: 10px;
+    border-color:#ca9efc;
+    text-align: center;
+}   
+img{
+    display: inline-block;
+}
+#navbar1 a:hover {
+    color: red;
+}
+#navbar2 a:hover {
+    color: red;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    border-style: double;
+    border-width: 10px;
+    border-color: ghostwhite;
+    padding: 10px;
+    margin: 10px;
 }

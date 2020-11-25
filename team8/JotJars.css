@@ -1,20 +1,55 @@
-
 /* Alyssa made this folder on Tues. 10.27 */
 
 /* We all worked on the navbar on 11.5 */
 
 /* Ria worked on this on 11.6 minor formatting changes (color and font)*/
 
-p {
-font-family: sans-serif;
-color: #6E9DC7
+/* Ria changed some fonts and colors and added content */
 
+/* Ria added some info, and changed inmages! /*/
+h3 {
+    font-family: sans-serif;
+    color: #6E9DC7
+    
+    
+    }
+    #navbar {
+        background-color: #9EB7D6;
+    }
+    
+    #navbar li {
+        display: inline-block;
+    }
+    
+    a {
+    font-family: sans-serif;
+        color: #F6E7C6
+    }
+    
+    body
+    {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    }
 
-}
-#navbar {
-    background-color: #9EB7D6;
-}
+    img {
+        border-radius: 10%;
+      }
+      img:hover {
+        width: 30%;}
+        
+    td {
+        font-family: sans-serif;
+        text-align: center;
+        font-size: large;
+        color: #6E9DC7
+        
+    }
 
-#navbar li {
-    display: inline-block;
-}
+    td {
+        background-color: rgb(255, 255, 134);
+    }
+
+    table {
+        text-align: center
+    }

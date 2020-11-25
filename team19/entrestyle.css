@@ -1,74 +1,79 @@
-/* <!-- Sarina created this file on 10.27.20 --> */
-/* <!-- Sarina edited this file on 11.11.20 --> */
-
-
-
-h1 {
-    color: navy;
-    font-size: 53px;
-    font-family: 'Amatic SC', cursive;
-    text-align: center;
-    text-shadow: 2px 2px 5px black;
-}
-
-h3 { 
-    color: navy;
-    font-family: 'Amatic SC', cursive;
-    text-align: center;
-   
-}
-
-h2 {
-    color: navy;
-    font-family: 'Amatic SC', cursive;
-    text-align: center;
-
-}
- 
-p {
-    color:  black;
-    font-size: 14px;
-font-family: 'Indie Flower', cursive;
-    text-align: center;
-}
-
-a {
-    
-    color: Navy;
-    font-size: 14px;
-font-family: 'Indie Flower', cursive;
-    text-align: center;
-
-   
-}
-
 body {
-    background-color: #fce1f9
-  }
-
-  .center {
+    background-color: #f1d9ff;
+    text-align: center
+    }
+    h1,
+    h2,
+    h3 {
+    color: navy;
+    font-family: "Amatic SC", "cursive";
+    text-align: center;
+    }
+    h1 {
+    font-size: 53px;
+    text-shadow: 2px 2px 5px black;
+    color: purple
+    }
+    h3 {
+    font-size: 32px;
+    color: purple;
+    }
+    p {
+    color: navy;
+    font-size: 22px;
+    font-family: "Indie Flower", "cursive";
+    text-align: center;
+    }
+    a:visited,
+    a:link {
+    color: purple;
+    font-size: 22px;
+    font-family: "Indie Flower", "cursive";
+    text-align: center;
+    }
+    a:hover,
+    a:active {
+    color: green;
+    font-size: 22px;
+    font-family: "Indie Flower", "cursive";
+    text-align: center;
+    }
+    #navbar {
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    border-color: navy;
+    }
+    #navbar li {
+    display: inline-block;
+    font-family: 'Playfair Display', serif;
+    }
+    #navbar a {
+    font-family: 'Playfair Display', serif;
+    text-decoration: underline;
+    color: purple;
+    }
+    .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
-
-  #navbar {
-    border-bottom: solid;
+    }
+    #logo {
     border-width: 2px;
     text-align: center;
     }
-
-  
-#navbar  li {
-display: inline-block;
-}
-  a:hover {
-color: plum
-font-family: 'Charm', cursive; }
-
-img {
- border-style:
-    border-width:
-    border-color:
-}
+    img{
+    text-align: center;
+    }
+    #tagsphoto {
+    text-align: center;
+    }
+    
+    #cogs {
+    padding: 15px;
+    }
+    
+    #video {
+    padding: 15px;
+    }
