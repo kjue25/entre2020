@@ -36,7 +36,6 @@
  margin-left: auto;
  margin-right: auto;
  display: block;
- 
  height: 700px;
 }
 
@@ -60,10 +59,9 @@ h2 {
 
 #stuff {
    margin-left: 100px;
-   margin-right: 100px;
+   margin-right: 150px;
    text-align: center;
-   
-    
+   border-radius: 100px;
 }
 p {
     font-family: 'ABeeZee';
@@ -79,7 +77,6 @@ h4 {
 #stuff img:hover { 
     min-width: 389; 
     min-height:520;
-    transition-timing-function: ease;
 }
 img { 
     border-radius: 40px; 
@@ -98,4 +95,13 @@ iframe.CostOfGoods {
 
 #Bitmojis {
     text-align: center;
+}
+
+.bigger:hover { 
+    transform: scale(1.1);
+    transition: 1.2s ease
+}
+
+iframe { 
+    border-radius: 40px;
 }

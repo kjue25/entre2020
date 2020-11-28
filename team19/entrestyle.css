@@ -1,79 +1,93 @@
 body {
     background-color: #f1d9ff;
     text-align: center
-    }
-    h1,
-    h2,
-    h3 {
+}
+
+h1,
+h2,
+h3 {
     color: navy;
     font-family: "Amatic SC", "cursive";
     text-align: center;
-    }
-    h1 {
+}
+
+h1 {
     font-size: 53px;
     text-shadow: 2px 2px 5px black;
     color: purple
-    }
-    h3 {
+}
+
+h3 {
     font-size: 32px;
     color: purple;
-    }
-    p {
+}
+
+p {
     color: navy;
     font-size: 22px;
     font-family: "Indie Flower", "cursive";
     text-align: center;
-    }
-    a:visited,
-    a:link {
+}
+
+a:visited,
+a:link {
     color: purple;
     font-size: 22px;
     font-family: "Indie Flower", "cursive";
     text-align: center;
-    }
-    a:hover,
-    a:active {
+}
+
+a:hover,
+a:active {
     color: green;
     font-size: 22px;
     font-family: "Indie Flower", "cursive";
     text-align: center;
-    }
-    #navbar {
+}
+
+#navbar {
     border-style: solid;
     border-width: 2px;
     text-align: center;
     border-color: navy;
-    }
-    #navbar li {
+}
+
+#navbar li {
     display: inline-block;
     font-family: 'Playfair Display', serif;
-    }
-    #navbar a {
+}
+
+#navbar a {
     font-family: 'Playfair Display', serif;
     text-decoration: underline;
     color: purple;
-    }
-    .center {
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    }
-    #logo {
+}
+
+#logo {
     border-width: 2px;
     text-align: center;
-    }
-    img{
+}
+
+img {
     text-align: center;
-    }
-    #tagsphoto {
+    padding: 15px;
+}
+
+#tagsphoto {
     text-align: center;
-    }
-    
-    #cogs {
+}
+
+#cogs {
     padding: 15px;
-    }
-    
-    #video {
+}
+
+#video {
     padding: 15px;
-    }
+}
