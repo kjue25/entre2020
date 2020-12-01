@@ -33,6 +33,7 @@ a {
 
 h1 {
     font-family: cursive;
+    font-size: 60px;
 }
 #navbar a {
    
@@ -43,6 +44,34 @@ body {
     background-color: #f0ecdd;
 
 }
+
 body {
-    font-family: font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  .block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: rgb(209, 143, 82);
+    padding: 15px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 200%;
+    padding: 20px;
+  }
