@@ -1,21 +1,38 @@
 
 /* Alexa created this file on 0ct 27 2020 */
 /* Claudia edited COGS styling */
-#navbar {
+
+
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
     background-color: none;
-    border: none;
-    
-}
+   
+  }
+  
+  #navbar li {
+    display: inline-block;
+  }
+  
+  #navbar li a {
+    color: white;
+   
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #a1a3a0;
+  }
+  #navbar {
+    text-align: center;
 
-#navbar li {
-display: inline-table;
-}
-
-#navbar a {
-color: white
-
-
-}
+  }
 body {
     text-align: center
     
