@@ -1,12 +1,16 @@
 /* This file was created by hannah on 11/5/20 */
 /* Style was updated by Hannah on 11/5/20 */
 /* Parts were linked by Josie on 11/11/20 */
-/* COG css was updated by Josie on 11/12/20*/
+/* COG css was updated by Josie on 11/12/20 */
+/* CSS was updated by Josie on 11/20/20 */
+/* CSS was updated and added by Josie on 12/1/20 */
 
 #NavagationBar {
-    background-color: #5db37e;
+    background-color:#85dea3;
     border-style: ridge;
     border-width: 3px;
+    font-size: 20px;
+    text-decoration: none;
 }
 
 #NavagationBar li {
@@ -14,9 +18,10 @@
 }
 
 Body {
-    background-color: white;
+    background-color: #000000;
     text-align: center;
-    font-family: 'Comfortaa';
+    font-family: 'Bradley Hand';
+    padding: 50px
 }
 
 #COG {
@@ -50,4 +55,14 @@ Body {
     border-radius: 30%;
     width: 200px;
     height: 360px;
+}
+
+table {
+    padding-left: 350px;
+}
+
+#Visual {
+    margin: 30px;
+    border: 5px ridge #34ebc9;
+    border-radius: 20%;
 }

@@ -9,12 +9,12 @@
 /* Ria added some info, and changed inmages! /*/
 h3 {
     font-family: sans-serif;
-    color: #6E9DC7
+    color: #006280
     
     
     }
     #navbar {
-        background-color: #9EB7D6;
+        background-color: #b3edff;
     }
     
     #navbar li {
@@ -23,13 +23,13 @@ h3 {
     
     a {
     font-family: sans-serif;
-        color: #F6E7C6
+        color: #006280
     }
     
     body
     {
     text-align: center;
-    background-color: lightgoldenrodyellow;
+    background-color: #e6f9ff;
     }
 
     img {
@@ -42,12 +42,12 @@ h3 {
         font-family: sans-serif;
         text-align: center;
         font-size: large;
-        color: #6E9DC7
+        color: #006280;
         
     }
 
     td {
-        background-color: rgb(255, 255, 134);
+        background-color: #b3edff;
     }
 
     table {
