@@ -8,11 +8,11 @@
 
 /* Ria added some info, and changed inmages! /*/
 h3 {
-    font-family: sans-serif;
+    background-color:lightblue;
+    font-family: 'Courier New', Courier, monospace;
     color: #006280
     
-    
-    }
+}
     #navbar {
         background-color: #b3edff;
     }
@@ -22,7 +22,8 @@ h3 {
     }
     
     a {
-    font-family: sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    font: bold;
         color: #006280
     }
     
@@ -34,22 +35,43 @@ h3 {
 
     img {
         border-radius: 10%;
+        border:8px lightblue;
+        padding: 10px;
       }
-      img:hover {
-        width: 30%;}
+
+
+      
         
     td {
-        font-family: sans-serif;
-        text-align: center;
+        text-align: left;
         font-size: large;
         color: #006280;
-        
+        padding: 60px;
+        background-color: lightblue;
+        font-size: 20;
+        font-family: 'Courier New', Courier, monospace;
     }
 
-    td {
-        background-color: #b3edff;
-    }
+
 
     table {
-        text-align: center
+        text-align: left;
+        width: 100%;
+        border-spacing: 4rem;
+    }
+
+    table#one td {
+            text-align: left;
+            font-size: large;
+            color: #006280;
+            padding: 60px;
+            background-color: lightblue;
+            font-size: 20;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+
+    ul
+    {
+        list-style-position: outside;
     }
